@@ -16,7 +16,8 @@
     font-size: 18px;
   }
 
-  header {
+  header,
+  .section-testimonials {
     background-attachment: local;
   }
 
