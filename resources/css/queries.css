@@ -17,7 +17,7 @@
   }
 
   header {
-    background-attachment: scroll;
+    background-attachment: local;
   }
 
   section {
