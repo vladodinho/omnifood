@@ -16,6 +16,10 @@
     font-size: 18px;
   }
 
+  header {
+    background-attachment: scroll;
+  }
+
   section {
     padding: 60px 0;
   }
