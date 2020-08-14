@@ -94,7 +94,8 @@ $(document).ready(function() {
 
   // Mobile navigation
 
-  $('.js--nav-icon').click(function() {
+  $('.js--nav-icon').click(function(event) {
+    event.preventDefault();
     var nav = $('.js--main-nav');
     var icon = $('.js--nav-icon i');
 
